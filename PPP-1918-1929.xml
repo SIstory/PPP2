@@ -114,7 +114,7 @@ ISBN 978-961-6386-85-2 (html)<br/>]]></p>
                 <head>Kolofon</head>
             </divGen>
             <divGen type="teiHeader" xml:id="teiHeader">
-                <head>TEI kolofon</head>
+                <head>Kolofon TEI</head>
             </divGen>
             <divGen type="toc" xml:id="titleType">
                 <head>Kazalo vsebine</head>
